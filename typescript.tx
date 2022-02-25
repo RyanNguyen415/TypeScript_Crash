@@ -1,0 +1,9 @@
+notes
+ 
+ install globally: 
+ sudo npm i -g typescript
+
+tsc --watch index : this is to watch index
+tsc --init : creates a tsconfig.json file
+tsc- compile all ts files in context
+tsc --watch : compile and watch all files
